@@ -1,0 +1,3 @@
+D:/Users/conta/Documents/Tec/Segundo Semestre/Modelacion de la ingenieria con matematica computacional/Modulo 1/practica1/cmake-build-debug/CMakeFiles/practica1.dir
+D:/Users/conta/Documents/Tec/Segundo Semestre/Modelacion de la ingenieria con matematica computacional/Modulo 1/practica1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/conta/Documents/Tec/Segundo Semestre/Modelacion de la ingenieria con matematica computacional/Modulo 1/practica1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
