@@ -1,0 +1,10 @@
+# ninja log v5
+5	334	7062133619111423	CMakeFiles/herencias.dir/main.cpp.obj	782ceb5e04c3cc3
+3	430	7062121442956135	CMakeFiles/herencias.dir/shape.cpp.obj	d3c058c52fbbec8f
+334	466	7062133620416218	herencias.exe	59bf01257466ec12
+35	1066	7062120796443680	CMakeFiles/herencias.dir/circulo.cpp.obj	a68e71ae4f56ed48
+3	360	7062130556574166	CMakeFiles/herencias.dir/triangulo.cpp.obj	9e8a5fe1a0bb93a9
+3	363	7062133492414883	CMakeFiles/herencias.dir/cuadrado.cpp.obj	965abe0d5794f29c
+3	1077	7062145206345745	CMakeFiles/herencias.dir/main.cpp.obj	782ceb5e04c3cc3
+3	437	7062145331909820	CMakeFiles/herencias.dir/poligono.cpp.obj	610bd4f2872f81ea
+438	1064	7062145338124223	herencias.exe	c211c5ca081f60fd
