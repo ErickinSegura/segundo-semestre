@@ -1,0 +1,12 @@
+# ninja log v5
+2	361	7066957446892960	CMakeFiles/paqueteria.dir/main.cpp.obj	af4b6274bb6f51fc
+7	341	7066957446672968	CMakeFiles/paqueteria.dir/paquete.cpp.obj	e246bda0e51fd200
+11	482	7066954054347812	CMakeFiles/paqueteria.dir/menu.cpp.obj	b92e17905dc45dd
+17	986	7066939743165297	CMakeFiles/paqueteria.dir/persona.cpp.obj	810bceaee6705f11
+3	377	7066954860709017	CMakeFiles/paqueteria.dir/envio.cpp.obj	ca52e7ed193fe0bc
+361	504	7066957448286630	paqueteria.exe	e9a494434894292f
+244	1446	7067327498689764	CMakeFiles/paqueteria.dir/main.cpp.obj	af4b6274bb6f51fc
+262	1447	7067327498689764	CMakeFiles/paqueteria.dir/sobre.cpp.obj	e38eff7b4783dfec
+4	528	7067327665657223	CMakeFiles/paqueteria.dir/menu.cpp.obj	b92e17905dc45dd
+3	1011	7067329808966496	CMakeFiles/paqueteria.dir/paquete.cpp.obj	e246bda0e51fd200
+1011	1593	7067329814758839	paqueteria.exe	16e3989b9a3fe12a

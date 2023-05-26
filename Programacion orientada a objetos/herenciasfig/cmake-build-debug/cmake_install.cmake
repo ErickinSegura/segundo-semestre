@@ -1,4 +1,4 @@
-# Install script for directory: D:/Users/conta/Documents/Tec/Segundo Semestre/Programacion orientada a objetos/herencias
+# Install script for directory: D:/Users/conta/Documents/Tec/Segundo Semestre/GitHub/Programacion orientada a objetos/herenciasfig
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Users/conta/Documents/Tec/Segundo Semestre/Programacion orientada a objetos/herencias/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Users/conta/Documents/Tec/Segundo Semestre/GitHub/Programacion orientada a objetos/herenciasfig/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
