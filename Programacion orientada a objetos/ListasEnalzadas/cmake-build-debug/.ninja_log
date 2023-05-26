@@ -1,0 +1,9 @@
+# ninja log v5
+1	1149	7068181990216191	CMakeFiles/ListasEnalzadas.dir/main.cpp.obj	fe587f3837170688
+14	1362	7068181992351323	CMakeFiles/ListasEnalzadas.dir/nodo.cpp.obj	1d4c4aa012160909
+4	392	7068182257947434	CMakeFiles/ListasEnalzadas.dir/lista.cpp.obj	11795505cc737e58
+393	941	7068182263366256	ListasEnalzadas.exe	df996de370ea5eea
+3	411	7068186684882355	CMakeFiles/ListasEnalzadas.dir/lista.cpp.obj	11795505cc737e58
+411	538	7068186686134713	ListasEnalzadas.exe	df996de370ea5eea
+4	385	7068196286115332	CMakeFiles/ListasEnalzadas.dir/nodo.cpp.obj	1d4c4aa012160909
+386	500	7068196287257796	ListasEnalzadas.exe	df996de370ea5eea
