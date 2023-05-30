@@ -15,7 +15,7 @@ public:
     void insertaIni(int dato);
     void insertaFin(int dato);
     void recorre();
-    void elimina(int dato);
+    void elimina();
     void insertaOrd(int dato);
     ~lista();
 };

@@ -20,6 +20,19 @@ void lista::insertaIni(int dato) {
 }
 
 void lista::insertaFin(int dato) {
+    nodo *nuevo = new(nodo);
+
+    nuevo->setDato(dato);
+
+    if (cabeza == NULL) {
+        cabeza = nuevo;
+    } else {
+        nodo *aux = cabeza;
+        while (aux->getSiguiente() != NULL) {
+            aux = aux->getSiguiente();
+        }
+        aux->setSiguiente(nuevo);
+    }
 
 }
 
@@ -31,7 +44,23 @@ void lista::recorre() {
     }
 }
 
-void lista::elimina(int dato) {
+void lista::elimina() {
+    nodo *aux = cabeza;
+    nodo *aux2 = aux->getSiguiente();
+    int valDuda;
+    cout<<"Que valor quieres eliminar: ";
+    cin>>valDuda;
+    while (aux != NULL) {
+        if (aux->getDato() == valDuda) {
+            aux2->setSiguiente(aux->getSiguiente());
+            free(aux);
+            aux = aux2->getSiguiente();
+        } else {
+            aux2 = aux;
+            aux = aux->getSiguiente();
+        }
+    }
+
 
 }
 
