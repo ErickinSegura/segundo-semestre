@@ -1,0 +1,14 @@
+# ninja log v5
+3	444	7080249091555795	CMakeFiles/sobrecarga.dir/main.cpp.obj	b3766ce1fc35b3ec
+14	499	7080248727158875	CMakeFiles/sobrecarga.dir/Rect.cpp.obj	f50b14cf6bfd689e
+445	603	7080249093005802	sobrecarga.exe	c2e418268d5b39da
+8	107	7080255880496734	CMakeFiles/sobrecarga.dir/Pola.cpp.obj	eb77e09fed68bbb2
+18	801	7080255887457828	CMakeFiles/sobrecarga.dir/main.cpp.obj	b3766ce1fc35b3ec
+4	90	7080256138080176	CMakeFiles/sobrecarga.dir/Pola.cpp.obj	eb77e09fed68bbb2
+91	243	7080256139600159	sobrecarga.exe	5e6cfc2137250f29
+5	548	7080256662033958	CMakeFiles/sobrecarga.dir/main.cpp.obj	b3766ce1fc35b3ec
+548	825	7080256664750148	sobrecarga.exe	5e6cfc2137250f29
+5	479	7080256801473016	CMakeFiles/sobrecarga.dir/main.cpp.obj	b3766ce1fc35b3ec
+480	631	7080256802962222	sobrecarga.exe	5e6cfc2137250f29
+4	551	7080256875954566	CMakeFiles/sobrecarga.dir/main.cpp.obj	b3766ce1fc35b3ec
+551	698	7080256877399935	sobrecarga.exe	5e6cfc2137250f29
