@@ -4,8 +4,10 @@ import datetime
 from tkinter import * 
 import pywhatkit
 import openai
+import pygame
 
-
+pygame.init()
+pygame.mixer.init()
 
 openai.api_key = ""
 prompt_setup = "Simula ser un asistente de voz que se llama Pez. "
@@ -14,10 +16,12 @@ talker = Talker()
 listener = Listener()
 
 # Funcion principal
-
 def run():
     try:
+            sonido_fondo = pygame.mixer.Sound("placeholder.wav")
+            pygame.mixer.Sound.play(sonido_fondo)
             response = listener.listen()
+            response = response.upper()
             if ('REPRODUCE' in response):
                 play_music(response)
             elif ('BUSCA' in response):
@@ -95,7 +99,7 @@ def update(ind):
     if ind == framesNum:
         ind = 0
     canvas.create_image(0, 0, image=frame, anchor=NW)
-    root.after(100, update, ind) # Numero que regula la velocidad del gif
+    root.after(80, update, ind) # Numero que regula la velocidad del gif
 
 canvas = Canvas(width=600, height=338, bg='#343140', highlightthickness=0) # Modificar segun el tamaño de la imagen
 canvas.pack(pady=100)
@@ -107,4 +111,3 @@ btnRun.pack()
 
 # Run
 root.mainloop()
-#run()
